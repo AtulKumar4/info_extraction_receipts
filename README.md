@@ -16,7 +16,7 @@ Table of Contents:
     - [Solution](#solution)
 - [Why Graphs?](#why-graphs)
 - [Graph Convolutional Networks (GCNs)](#graph-convolutional-networks-gcns)
-    - [Semi-supervised classification with Graph Convolutional Networks: ](#semi-supervised-classification-with-graph-convolutional-networks-)
+    - [Semi-supervised classification with Graph Convolutional Networks: ](#semi-supervised-classification-with-graph-convolutional-networks)
 - [Steps of the Project:](#steps-of-the-project)
     - [1. Data Collection](#1-data-collection)
     - [2. Labeling](#2-labeling)
